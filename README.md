@@ -16,8 +16,8 @@ This repository holds some useful and frequently assessed Docker template yaml f
 
 ## Dependencies
 * [Azurite](https://hub.docker.com/_/microsoft-azure-storage-azurite) - Azurite emulator for local Azure Storage development
-* [Apache Kafka](https://kafka.apache.org/) - Streaming platform used for high-performance data pipelines, streaming analytics, data integration 
-* [Apache Zookeeper](https://zookeeper.apache.org/) - Service for maintaining configuration information and providing distributed synchronization services
+* [Apache Kafka](https://kafka.apache.org/) - Streaming platform for high-performance data pipelines, streaming analytics, data integration 
+* [Apache Zookeeper](https://zookeeper.apache.org/) - Service for maintaining configuration information and providing distributed synchronization
 * [Docker](https://www.docker.com/) - Platform as a service for OS-level virtualization to deliver software in packages
 * [MongoDB](https://www.mongodb.com/) - NoSQL database program
 * [Redis](https://redis.io/) - In-memory data store used for database, cache, streaming engine, and message broker
