@@ -1,6 +1,6 @@
 # docker-setup
 
-This repository holds some useful and frequently assessed Docker template yaml files for quick reference. 
+This repository holds some useful and frequently accessed Docker template yaml files for quick reference. 
 
 ## Working Technologies Stack
 
